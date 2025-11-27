@@ -1,5 +1,2 @@
-playwright
-aiohttp
-discord-webhook
 requests
-pandas  # Optional for CSV exports
+discord-webhook
